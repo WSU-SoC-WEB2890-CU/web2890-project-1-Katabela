@@ -1,0 +1,7 @@
+<h1 class="display-2 text-center my-5 py-5 mx-auto w-100"></h1>
+
+
+background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
